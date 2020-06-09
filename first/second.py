@@ -356,7 +356,7 @@ while cnt < 10:
     cnt += 1
 
 
-# In[ ]:
+# In[13]:
 
 
 # 직삼각형의 대각선 길이를 구해보자.
@@ -375,4 +375,155 @@ print(diag)
 
 diag = math.sqrt(math.pow(width, 2) + math.pow(height, 2))
 print(diag)
+
+
+# In[4]:
+
+
+# 현재 우리가 있는 위치를 (5, 5)
+# 랜덤 좌표 7개 생성
+# 해당 랜덤 좌표는 주유소
+# 현재 차량에 기름이 없다. 가장 빠른 주유소를 찾아라.
+# 랜덤 값은 1 ~ 10
+
+import math
+import random
+
+myloc = [5, 5] # [x, y]
+distance = []
+x = []
+y = []
+
+def assignRandXY():
+#     i = 0
+#     while i < 7: 
+#         x.append(random.randrange(1, 11))
+#         y.append(random.randrange(1, 11))
+#         i += 1
+    for _ in range(7):
+        x.append(random.randrange(1,11))
+        y.append(random.randrange(1,11))
+        
+def calculateDistance():
+    for idx in range(7):
+        distance.append(
+           math.sqrt((myloc[0] - x[idx]) ** 2 + (myloc[1] - y[idx]) ** 2)    
+        )
+
+def findBetterSolution():
+    distance.sort()
+#     print("distance =", distance)
+    return distance[0]
+
+def prettyPrint(myList):
+    for idx in range(len(mylist)):
+        print("%.2f" % myList[idx])
+    
+assignRandXY()
+
+print("x =", x)
+print("y =", y)
+
+calculateDistance()
+print("distance =",distance)
+# print("Most Better Solution:", findBetterSolution)
+# print("distance =")
+# prettyPrint(distance)
+# print("Most Better Solution = %.2f" % findBetterSolution())
+
+
+# In[5]:
+
+
+from numpy import linspace, sqrt
+import matplotlib.pyplot as plt
+
+x = linspace(-1, 5, 400)
+y = 1.0 / sqrt(x ** 2 + 1)
+
+# subplot(figsize = ~~~) 같은 부분 없이 단순히 plt.plot만으로도 그래프를 그릴 수 있다. 단 그래프 크기 조정 불가
+plt.plot(x, y)
+plt.show()
+
+
+# In[6]:
+
+
+from numpy import linspace, sqrt
+import matplotlib.pyplot as plt
+
+x = linspace(-1, 5, 50)
+y1 = 1.0 / sqrt(x ** 2 + 1)
+y2 = 1.0 / sqrt(3 * x ** 2 + 1)
+
+#아무런 옵션이 없으면 실선
+plt.plot(x, y1, label = 'plot 1')
+#아래와 같이 '--'이  있다면 점선
+plt.plot(x, y2, '--', label = 'plot 2')
+# plt.legend()면 plot 1과 plot 2가 각각 어떤 것인지 지표가 붙음
+plt.legend()
+plt.show()
+
+
+# In[10]:
+
+
+from numpy import array
+import matplotlib.pyplot as plt
+# numpy에 있는 array 기능으로 값들을 쭉 담아넣는 구조
+x = array([0,   1,   3,   7,  8,  10])
+y = array([1.1, 2.2, 3.8, -1.5, 1.6, 5])
+# numpy.ndarray(수치해석용 배열)
+print(type(x))
+# (x, y) 좌표에 동그라미로 포인트 주기
+plt.plot(x, y, 'o-')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.show()
+
+
+# In[16]:
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = linspace(-3, 3, 1000)
+y = x ** 2
+
+plt.plot(x,y)
+plt.show()
+
+# x^2에 대한 0 ~ 3까지의 정적분 구현
+# 1. 컴퓨터는 limit 개념 구현 없음
+# 2. 그렇기 때문에 0에 근접한 값은 만들 수 없음
+# 3. y = x^2 각각의 x값 0 ~ 3 사이의 x값들을 먼저 산출해야 한다.
+# 4. dx(고정) * y(고정 x) - 작은 사각형의 넓이
+# 5. 구한 작은 사각형의 넓이를 모두 더하면 9에 근접한 값이 나오는 것을 확인.
+
+dx = 0.00001
+y = []
+
+
+# 면적을 return x^2 -> 1/3 x^3 = 9
+def integralRange(start, end):
+    loopNum = (int)((end - start) / dx + 1)
+    area = 0
+    for i in range(loopNum - 1):
+        curX = dx * i
+#         print(curX)
+#         y.append(curX ** 2)
+        area += dx * (curX ** 2)
+    return area;
+    
+
+area = integralRange(0, 3)
+print(y)
+print("x^2의 0 ~ 3까지 정적분 결과 =", area)
+
+
+# In[ ]:
+
+
+
 
