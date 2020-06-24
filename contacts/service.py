@@ -17,5 +17,4 @@ class ContactsService:
     def del_contact(self, payload):
         for contact in self._contacts:
             if payload == contact.name:
-                self._contacts.remove(contact)
-                break
+                del contact
