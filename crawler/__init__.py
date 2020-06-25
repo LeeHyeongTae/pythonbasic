@@ -14,4 +14,4 @@ if __name__ == '__main__':
             break
         if menu == '1':
             print('bugsMusic')
-            pass
+            app.bugs_music('https://music.bugs.co.kr/chart/track/realtime/total?chartdate=20200625&charthour=12')

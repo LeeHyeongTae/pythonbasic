@@ -1,6 +1,7 @@
 from crawler.model import Model
 from crawler.service import Service
 
+
 class Controller:
     def __init__(self):
         self.service = Service()
@@ -8,6 +9,5 @@ class Controller:
 
     def bugs_music(self, url):
         self.model.url = url
-        self.model.parser = parser
-        self.model.path = path
-        self.model.api = api
+        self.model.parser = 'lxml'
+        self.service.bugs_music(self.model)

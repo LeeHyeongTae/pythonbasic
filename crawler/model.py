@@ -6,34 +6,25 @@ class Model:
         self._api = ''
 
     @property
-    def url(self):
-        return self.url
+    def url(self) -> str: return self.url
 
     @url.setter
-    def url(self, url):
-        self._url = url
+    def url(self, url): self._url = url
 
     @property
-    def parser(self):
-        return self._parser
+    def parser(self) -> str: return self._parser
 
     @parser.setter
-    def parser(self, parser):
-        self._parser = parser
+    def parser(self, parser): self._parser = parser
 
     @property
-    def path(self):
-        return self.path
+    def path(self) -> str: return self.path
 
     @path.setter
-    def path(self, path):
-        self.path = path
+    def path(self, path): self.path = path
 
     @property
-    def api(self):
-        return self._api
+    def api(self) -> str: return self._api
 
     @api.setter
-
-    def api(self, api):
-        self._api = api
+    def api(self, api): self._api = api
