@@ -3,11 +3,11 @@ from crawler.service import Service
 
 class Controller:
     def __init__(self):
-        self._service = Service()
+        self.service = Service()
+        self.model = Model()
 
-    def cralwer(self, url, parser, path, api):
-        model = Model()
-        model.url = url
-        model.parser = parser
-        model.path = path
-        model.api = api
+    def bugs_music(self, url):
+        self.model.url = url
+        self.model.parser = parser
+        self.model.path = path
+        self.model.api = api
