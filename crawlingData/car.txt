@@ -1,0 +1,1064 @@
+<div class="cs-list02 cs-list02--ratio small-tp generalRegist">
+				<div class="csTitleArea">
+					<h2 class="title">일반 매물</h2>
+				</div>
+				<div class="list-in">
+
+						<div class="area" title="르노삼성 SM3 Z.E. SE ">
+							<div class="thumnail">
+
+
+
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=11464118" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img06/img1146/11464118_1355612449879613.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=11464118" class="link" target="_blank">
+										<strong class="tit">르노삼성 SM3 Z.E. SE </strong>
+										<div class="data-line tp03">
+											<div class="first">2017년 01월 (16년식)</div>
+											<div class="data-in">
+												<span>42,500km</span>
+												<span>대구</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													999만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="11464118">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="11464118">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="BMW i3 SOL+ ">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20260848" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img06/img2026/20260848_10193404535285935.jpeg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20260848" class="link" target="_blank">
+										<strong class="tit">BMW i3 SOL+ </strong>
+										<div class="data-line tp03">
+											<div class="first">2015년 12월 (15년식)</div>
+											<div class="data-in">
+												<span>18,285km</span>
+												<span>경기</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													2,490만원
+
+
+
+
+										</strong>
+									</a>
+
+										<div class="cor-btn">
+
+
+												<a href="/public/guide/serviceGuideDiscount.kbc" target="_blank"><span class="cor-red">제휴할인</span></a>
+
+
+										</div>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20260848">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20260848">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="르노삼성 SM3 Z.E. SE ">
+							<div class="thumnail">
+
+
+
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20313654" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img01/img2031/20313654_12698221489269740.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20313654" class="link" target="_blank">
+										<strong class="tit">르노삼성 SM3 Z.E. SE </strong>
+										<div class="data-line tp03">
+											<div class="first">2016년 12월 (17년식)</div>
+											<div class="data-in">
+												<span>57,238km</span>
+												<span>경기</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													930만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20313654">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20313654">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="현대 코나 하이브리드 1.6 HEV 프리미엄 스페셜">
+							<div class="thumnail">
+
+
+
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20335433" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img03/img2033/20335433_13901412419303028.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20335433" class="link" target="_blank">
+										<strong class="tit">현대 코나 하이브리드 1.6 HEV 프리미엄 스페셜</strong>
+										<div class="data-line tp03">
+											<div class="first">2019년 12월 (20년식)</div>
+											<div class="data-in">
+												<span>18,479km</span>
+												<span>인천</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													2,760만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20335433">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20335433">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="기아 레이 EV ">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20381159" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img08/img2038/20381159_2039540757161856.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20381159" class="link" target="_blank">
+										<strong class="tit">기아 레이 EV </strong>
+										<div class="data-line tp03">
+											<div class="first">2014년 04월 (14년식)</div>
+											<div class="data-in">
+												<span>60,788km</span>
+												<span>경기</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													790만원
+
+
+
+
+										</strong>
+									</a>
+
+										<div class="cor-btn">
+
+
+												<a href="/public/guide/serviceGuideDiscount.kbc" target="_blank"><span class="cor-red">제휴할인</span></a>
+
+
+										</div>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20381159">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20381159">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="BMW i3 LUX I01 (14년~)">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20392713" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img09/img2039/20392713_2069403464778963.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20392713" class="link" target="_blank">
+										<strong class="tit">BMW i3 LUX I01 (14년~)</strong>
+										<div class="data-line tp03">
+											<div class="first">2017년 10월 (17년식)</div>
+											<div class="data-in">
+												<span>30,650km</span>
+												<span>서울</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													2,530만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20392713">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20392713">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="한국GM 쉐보레 볼트 EV PREMIER ">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20434552" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img03/img2043/20434552_2819602682053942.jpeg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20434552" class="link" target="_blank">
+										<strong class="tit">한국GM 쉐보레 볼트 EV PREMIER </strong>
+										<div class="data-line tp03">
+											<div class="first">2020년 04월 (19년식)</div>
+											<div class="data-in">
+												<span>2,065km</span>
+												<span>서울</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													2,830만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20434552">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20434552">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="르노삼성 트위지 EV 인텐스">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20438530" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img03/img2043/20438530_3003590147050305.jpeg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20438530" class="link" target="_blank">
+										<strong class="tit">르노삼성 트위지 EV 인텐스</strong>
+										<div class="data-line tp03">
+											<div class="first">2020년 05월 (20년식)</div>
+											<div class="data-in">
+												<span>18km</span>
+												<span>경기</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													430만원
+
+
+
+
+										</strong>
+									</a>
+
+										<div class="cor-btn">
+
+
+												<a href="/public/guide/serviceGuideDiscount.kbc" target="_blank"><span class="cor-red">제휴할인</span></a>
+
+
+										</div>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20438530">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20438530">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="재규어 I-PACE EV 400 First Edition">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20468293" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img06/img2046/20468293_3859784993462161.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20468293" class="link" target="_blank">
+										<strong class="tit">재규어 I-PACE EV 400 First Edition</strong>
+										<div class="data-line tp03">
+											<div class="first">2020년 01월 (19년식)</div>
+											<div class="data-in">
+												<span>10km</span>
+												<span>서울</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													9,200만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20468293">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20468293">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="재규어 I-PACE EV 400 HSE">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20468417" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img06/img2046/20468417_3861495821124974.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20468417" class="link" target="_blank">
+										<strong class="tit">재규어 I-PACE EV 400 HSE</strong>
+										<div class="data-line tp03">
+											<div class="first">2019년 01월 (19년식)</div>
+											<div class="data-in">
+												<span>3,784km</span>
+												<span>서울</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													8,100만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20468417">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20468417">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="현대 아이오닉 일렉트릭 N ">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20344728" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img04/img2034/20344728_13307344379417531.jpeg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20344728" class="link" target="_blank">
+										<strong class="tit">현대 아이오닉 일렉트릭 N </strong>
+										<div class="data-line tp03">
+											<div class="first">2017년 08월 (18년식)</div>
+											<div class="data-in">
+												<span>30,900km</span>
+												<span>경기</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													1,850만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20344728">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20344728">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="현대 아이오닉 일렉트릭 Q ">
+							<div class="thumnail">
+
+
+
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20493630" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img09/img2049/20493630_5084253419495439.jpeg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20493630" class="link" target="_blank">
+										<strong class="tit">현대 아이오닉 일렉트릭 Q </strong>
+										<div class="data-line tp03">
+											<div class="first">2017년 06월 (18년식)</div>
+											<div class="data-in">
+												<span>20,461km</span>
+												<span>경기</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													2,000만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20493630">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20493630">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="BMW i3 LUX I01 (14년~)">
+							<div class="thumnail">
+
+
+
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20456189" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img05/img2045/20456189_4134646182318945.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20456189" class="link" target="_blank">
+										<strong class="tit">BMW i3 LUX I01 (14년~)</strong>
+										<div class="data-line tp03">
+											<div class="first">2014년 11월 (14년식)</div>
+											<div class="data-in">
+												<span>27,929km</span>
+												<span>인천</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													1,980만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20456189">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20456189">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="현대 아이오닉 N ">
+							<div class="thumnail">
+
+
+
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20501399" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img10/img2050/20501399_5247197513652974.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20501399" class="link" target="_blank">
+										<strong class="tit">현대 아이오닉 N </strong>
+										<div class="data-line tp03">
+											<div class="first">2016년 12월 (17년식)</div>
+											<div class="data-in">
+												<span>80,034km</span>
+												<span>경기</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													1,530만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20501399">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20501399">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="현대 코나 일렉트릭 프리미엄 ">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20505056" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img10/img2050/20505056_4997433984322763.jpeg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20505056" class="link" target="_blank">
+										<strong class="tit">현대 코나 일렉트릭 프리미엄 </strong>
+										<div class="data-line tp03">
+											<div class="first">2018년 11월 (19년식)</div>
+											<div class="data-in">
+												<span>23,607km</span>
+												<span>서울</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													3,150만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20505056">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20505056">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="닛산 리프 SL ">
+							<div class="thumnail">
+
+
+
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20514218" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img01/img2051/20514218_5253962206290775.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20514218" class="link" target="_blank">
+										<strong class="tit">닛산 리프 SL </strong>
+										<div class="data-line tp03">
+											<div class="first">2015년 11월 (15년식)</div>
+											<div class="data-in">
+												<span>27,946km</span>
+												<span>경기</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													1,150만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20514218">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20514218">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="르노삼성 트위지 EV 인텐스">
+							<div class="thumnail">
+
+
+
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20482487" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img08/img2048/20482487_4387338496760460.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20482487" class="link" target="_blank">
+										<strong class="tit">르노삼성 트위지 EV 인텐스</strong>
+										<div class="data-line tp03">
+											<div class="first">2018년 03월 (18년식)</div>
+											<div class="data-in">
+												<span>644km</span>
+												<span>경기</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													350만원
+
+
+
+
+										</strong>
+									</a>
+
+										<div class="cor-btn">
+
+
+												<a href="/public/guide/serviceGuideDiscount.kbc" target="_blank"><span class="cor-red">제휴할인</span></a>
+
+
+										</div>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20482487">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20482487">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="한국GM 뉴 라보 DLX ">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=11443757" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img04/img1144/11443757_13834163258224399.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=11443757" class="link" target="_blank">
+										<strong class="tit">한국GM 뉴 라보 DLX </strong>
+										<div class="data-line tp03">
+											<div class="first">2016년 11월 (17년식)</div>
+											<div class="data-in">
+												<span>3,092km</span>
+												<span>대전</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													950만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="11443757">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="11443757">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="현대 아이오닉 일렉트릭 Q ">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20229553" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img02/img2022/20229553_9765804828112465.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20229553" class="link" target="_blank">
+										<strong class="tit">현대 아이오닉 일렉트릭 Q </strong>
+										<div class="data-line tp03">
+											<div class="first">2017년 02월 (17년식)</div>
+											<div class="data-in">
+												<span>61,843km</span>
+												<span>서울</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													1,799만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20229553">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20229553">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="area" title="닛산 리프 SL ">
+							<div class="thumnail">
+
+
+
+
+											<span class="cmm-real-car">실차주</span>
+
+
+
+								<a href="/public/car/detail.kbc?carSeq=20058022" class="item" target="_blank">
+									<span class="item__img">
+										<img alt="" src="https://img.kbchachacha.com/IMG/carimg/l/img05/img2005/20058022_1804350678501426.jpg?width=360" onerror="this.src='/images/common/noimage.jpg';">
+									</span>
+								</a>
+							</div>
+							<div class="con">
+								<div class="item">
+									<a href="/public/car/detail.kbc?carSeq=20058022" class="link" target="_blank">
+										<strong class="tit">닛산 리프 SL </strong>
+										<div class="data-line tp03">
+											<div class="first">2016년 12월 (16년식)</div>
+											<div class="data-in">
+												<span>34,954km</span>
+												<span>대전</span>
+											</div>
+										</div>
+										<strong class="pay">
+
+
+													1,550만원
+
+
+
+
+										</strong>
+									</a>
+
+									<div class="sort-wrap">
+										<div class="ck-wrap ck-tp02">
+											<button type="button" class="lc-btn like ck-item  __wish" data-car-seq="20058022">
+												<span class="blind">좋아요</span>
+											</button>
+											<button type="button" class="lc-btn cpr ck-item  __compare" data-car-seq="20058022">
+												<span class="blind">비교하기</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+				</div>
+			</div>
