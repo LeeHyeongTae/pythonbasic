@@ -39,7 +39,7 @@ class Service:
         self.texts = []
         self.tokens = []
         self.noun_tokens = []
-        self.okt = []
+        self.okt = Okt()
         self.stopwords = []
         self.freqtxt = []
         # 행벡터의 의미를 가진다. [리스트]
@@ -51,7 +51,7 @@ class Service:
             self.texts = f.read()
         print(f'1단계 결과물 : {self.texts[:300]}')
 
-    def tokenize(self, payload):
+    def tokenize(self):
         print('>>2 corpus 에서 한글 추출')
         texts = self.texts.replace('\n', ' ')
         tokenizer = re.compile(r'[^ㄱ-힣]')
@@ -74,25 +74,35 @@ class Service:
             _ = [txt_tags[0] for txt_tags in token_pos if txt_tags[1] == 'Noun']
             if len("".join(_)) > 1:
                 arr_.append("".join(_))
-            self.noun_tokens = " ".join(arr_)
-            print(f'4단계 결과물 : {self.noun_tokens[:300]}')
+        self.noun_tokens = " ".join(arr_)
+        print(f'4단계 결과물 : {self.noun_tokens[:300]}')
 
-    def extract_stopword(self):
+    def extract_stopword(self, payload):
         print('>>5 노이즈 코퍼스에서 토큰 추출')
-        pass
+        filename = payload.context + payload.fname
+        with open(filename, 'r', encoding='utf-8') as es:
+            self.stopwords = es.read()
+        print(f'5단계 결과물 : {self.stopwords[:300]}')
 
     def filtering_text_with_stopword(self):
         print('>>6 노이즈 필터링 후 시그널 추출')
-        pass
+        self.noun_tokens = word_tokenize(self.noun_tokens)
+        self.noun_tokens = [text for text in self.noun_tokens if text not in self.stopwords]
 
     def freqent_text(self):
         print('>>7 시그널 중에서 사용빈도 정렬')
-        pass
+        self.freqtxt = pd.Series(dict(FreqDist(self.noun_tokens))).sort_values(ascending=False)
+        print(f'{self.freqtxt[:10]}')
 
-    def wordcloud(self):
+    def wordcloud(self, payload):
         print('>>8 시각화')
-        wc = WordCloud
-
+        fname = payload.context + payload.fname
+        wclod = WordCloud(fname, relative_scaling=0.2, background_color='white')\
+            .generate(" ".join(self.noun_tokens))
+        plt.figure(figsize=(12, 12))
+        plt.imshow(wclod, interpolation='bilinear')
+        plt.axis('off')
+        plt.show()
 
 
 class Controller:
@@ -109,13 +119,15 @@ class Controller:
         entity.context = './data/'
         entity.fname = 'kr-Report_2018.txt'
         service.extract_texts(entity)
-        service.tokenize(entity)
+        service.tokenize()
         service.conversion_token() # 한글
         service.compound_noun()
-        service.extract_stopword() # 필요없는 단어 추출
+        entity.fname = 'stopwords.txt'
+        service.extract_stopword(entity) # 필요없는 단어 추출
         service.filtering_text_with_stopword()
         service.freqent_text()
-        service.wordcloud()
+        entity.fname = 'D2Coding.ttf'
+        service.wordcloud(entity)
 
 
 def print_menu():
