@@ -64,10 +64,11 @@ print(f’나이브베이즈 활용한 검증 정확도 {None}‘)
 print(f’KNN 활용한 검증 정확도 {None}‘)
 print(f’SVM 활용한 검증 정확도 {None}’)
 """
+
+
 class Service:
     def __init__(self):
         self.entity = Entity()
-
 
     def new_model(self, payload):
         this = self.entity
@@ -75,6 +76,11 @@ class Service:
         this.fname = payload
         return pd.read_csv(this.context + this.fname)
 
+    def create_label(self, this):
+        pass
+
+    def create_train(self, this):
+        pass
 
 
 class Controller:
@@ -98,12 +104,12 @@ class Controller:
         print(f'테스트의 컬럼 : {this.train.columns}')
 
 
-
-
 def print_menu():
     print('0.exit')
     print('1.현재 처리 상태')
     return input('메뉴선택\n')
+
+
 app = Controller()
 while 1:
     menu = print_menu()
